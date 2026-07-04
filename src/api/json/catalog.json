@@ -3243,6 +3243,12 @@
       "url": "https://www.schemastore.org/fabric.mod.json"
     },
     {
+      "name": "Feature Forge Flow Definition",
+      "description": "Feature Forge flow definition file — declares a slash command, orchestrator config, and named deterministic routines",
+      "fileMatch": ["**/src/flows/*/flow.json"],
+      "url": "https://raw.githubusercontent.com/misiekhardcore/feature-forge/main/src/flows/flow-schema.json"
+    },
+    {
       "name": "F-Droid Data metadata",
       "description": "F-Droid Data app metadata files",
       "fileMatch": ["**/metadata/*.yml"],
